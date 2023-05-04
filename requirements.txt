@@ -91,7 +91,6 @@ python-json-logger==2.0.7
 pytweening==1.0.5
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
-pywin32==306
 pywinpty==2.0.10
 PyYAML==6.0
 pyzmq==25.0.2
