@@ -47,7 +47,8 @@ fuel_type = st.selectbox("Select the Fuel Type",
 if st.button("Predict Price"):
     # Query
     pred = pipe_lr.predict(pd.DataFrame([
-        [car_model, company_name, year, kms_driven, fuel_type]], columns=["name", "company", "year", "kms_driven", "fuel_type"]))
+        [car_model, company_name, year, kms_driven, fuel_type]],
+        columns=["name", "company", "year", "kms_driven", "fuel_type"]))
 
     pred_final = np.round(float(pred[0]), 2)
     pred_sentence = "Predicted Price: ₹ " + str(pred_final)
