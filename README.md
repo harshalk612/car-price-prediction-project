@@ -6,4 +6,4 @@ This project aims to predict the Price of an used Car by taking it's Company nam
 
 ## Screenshots
 
-<a href="https://ibb.co/1f1vnhM"><img src="https://i.ibb.co/Fb2xWNX/Screenshot-2023-05-04-155446.png" alt="Screenshot-2023-05-04-155446" border="0"></a><br /><a target='_blank' href='https://whatsmyscreenresolution.com/'>my computer screen resolution</a><br />
+<a href="https://ibb.co/v1xc3DJ"><img src="https://i.ibb.co/Y27Ncbt/Screenshot-2023-05-04-155740.png" alt="Screenshot-2023-05-04-155740" border="0"></a>
