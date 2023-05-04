@@ -6,4 +6,8 @@ This project aims to predict the Price of an used Car by taking it's Company nam
 
 ## Screenshots
 
-<a href="https://ibb.co/v1xc3DJ"><img src="https://i.ibb.co/Y27Ncbt/Screenshot-2023-05-04-155740.png" alt="Screenshot-2023-05-04-155740" border="0"></a>
+## Demonstration of the Project
+<a href="https://github.com/harshalk612/car-price-prediction-project/blob/master/demo.png.png"><img src="https://github.com/harshalk612/car-price-prediction-project/blob/master/demo.png.png" alt="Screenshot-2023-05-04-155740" border="0"></a>
+
+## Output after Inserting the Details
+<a href="https://github.com/harshalk612/car-price-prediction-project/blob/master/predict.png.png"><img src="https://github.com/harshalk612/car-price-prediction-project/blob/master/predict.png.png" alt="Screenshot-2023-05-04-155740" border="0"></a>
