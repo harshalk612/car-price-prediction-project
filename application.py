@@ -4,7 +4,7 @@ import streamlit as st
 import pickle
 import numpy as np
 import pandas as pd
-import pyautogui
+# import pyautogui
 
 # Import the model and dataset
 pipe_lr = pickle.load(open("LRModel.pkl", "rb"))
